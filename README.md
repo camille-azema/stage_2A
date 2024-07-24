@@ -10,7 +10,7 @@ Des régressions linéaires et exponentielles ont également été testées pour
 
 Des installations de librairies sont potentiellement à prévoir : 
 
-Des simulations par rapport aux comportements du complexe AC-AG en fonction des valeurs des coefficients kon et koff ont été réalisées : des courbes d'affinités sont observables. Cela est visible sur le notebook 
+Des simulations par rapport aux comportements du complexe AC-AG en fonction des valeurs des coefficients kon et koff ont été réalisées : des courbes d'affinités sont observables. Cela est visible sur le notebook Simulation_coeff.
 
 ## Installation
 Instructions pour installer le projet :
