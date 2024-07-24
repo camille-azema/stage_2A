@@ -15,6 +15,6 @@ Des simulations par rapport aux comportements du complexe AC-AG en fonction des 
 ## Installation
 Instructions pour installer le projet :
 ```sh
-git clone https://example.com/mon-projet.git
-cd mon-projet
+git clone https://github.com/camille-azema/stage_2A.git
+cd stage_2A
 npm install
